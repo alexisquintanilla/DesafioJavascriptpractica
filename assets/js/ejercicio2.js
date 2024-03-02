@@ -10,31 +10,30 @@ const caja = document.querySelector("#caja")
 
 btn1.addEventListener("click", () => {
     caja.style.backgroundColor = "#e53e3e";
-    console.log("click")
+
 
 })
 btn2.addEventListener("click", () => {
     caja.style.backgroundColor = "#dd6b20";
-    console.log("click")
+
 
 })
 btn3.addEventListener("click", () => {
     caja.style.backgroundColor = "#faf089";
-    console.log("click")
 
 })
 btn4.addEventListener("click", () => {
     caja.style.backgroundColor = "#48bb78";
-    console.log("click")
+
 
 })
 btn5.addEventListener("click", () => {
     caja.style.backgroundColor = "#81e6d9";
-    console.log("click")
+
 
 })
 btn6.addEventListener("click", () => {
     caja.style.backgroundColor = "#d53f8c";
-    console.log("click")
+
 
 })
